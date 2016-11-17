@@ -1,0 +1,28 @@
+
+git add *
+git commit -a -m "new comment"
+git push origin master
+
+//----------------------------------------------------
+
+git設定ファイル編集コマンド
+vim ~/.gitconfig
+
+git設定ファイル .gitconfig 
+/c/Users/pms/.gitconfig
+
+Gitコマンド
+git clone ssh://permission@permission.git.backlog.jp:/CMA/cma_api.git
+
+コマンドラインでGitHubにプルリクエストを送る
+http://qiita.com/sl2/items/0ac1c6b4df5d69c0bb1b
+
+
+基本的なGitコマンドまとめ
+http://qiita.com/2m1tsu3/items/6d49374230afab251337#pull
+
+//----------------------------------------------------
+
+
+
+
