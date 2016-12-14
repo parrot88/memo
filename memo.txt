@@ -4,7 +4,17 @@ SSH
 vi ~/.ssh/config
 http://oshin.tokyo/2016/01/29/sshconfig/
 
+
 //----------------------------------------------------------------
+
+aliasの内容を編集
+vi ~/.bash_profile
+
+編集を行う
+
+編集後読込
+source ~/.bash_profile
+
 
 
 
