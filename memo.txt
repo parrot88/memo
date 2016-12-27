@@ -5,15 +5,28 @@ vi ~/.ssh/config
 http://oshin.tokyo/2016/01/29/sshconfig/
 
 
+ssh接続が切れないように応答確認を自動で行う
+http://www.maruko2.com/mw/ssh_%E6%8E%A5%E7%B6%9A%E3%82%92%E3%82%BF%E3%82%A4%E3%83%A0%E3%82%A2%E3%82%A6%E3%83%88%E3%81%97%E3%81%AA%E3%81%84%E3%82%88%E3%81%86%E3%81%AB%E3%81%99%E3%82%8B
+sudo vim /etc/ssh/sshd_config
+ClientAliveInterval 15
+再起動
+sudo service sshd restart
+
 //----------------------------------------------------------------
 
 aliasの内容を編集
+vi ~/.bashrc
+
+
 vi ~/.bash_profile
+
+
 
 編集を行う
 
 編集後読込
 source ~/.bash_profile
+
 
 
 
