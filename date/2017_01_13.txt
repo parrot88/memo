@@ -1,0 +1,7 @@
+
+
+javascript Dialog
+http://www.jqueryscript.net/lightbox/Easy-jQuery-Modal-Dialog-Box-Plugin-dialog.js.html
+http://www.jqueryscript.net/lightbox/jQuery-CSS3-Powered-Modal-Window-Effects-Nifty-js.html
+
+
