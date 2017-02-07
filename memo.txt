@@ -28,6 +28,6 @@ vi ~/.bash_profile
 source ~/.bash_profile
 
 
-
+freee
 
 
